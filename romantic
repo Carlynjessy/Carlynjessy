@@ -21,7 +21,7 @@
             text-align: center;
         }
 
-        .message {
+        .message {idk
             font-size: 24px;
             margin-bottom: 20px;
             color: #d81b60;
